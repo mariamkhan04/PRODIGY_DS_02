@@ -13,7 +13,8 @@ This project fulfills the requirements of **Task 2** from my internship at **Pro
 
 ## Dataset
 
-**Source:** Titanic dataset from Kaggle
+**Source:** Titanic dataset from Kaggle.
+
 **Description:**
 The Titanic dataset provides details about the passengers aboard the RMS Titanic, which sank on April 15, 1912. The dataset includes key features like:
 

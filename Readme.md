@@ -12,18 +12,20 @@ This project fulfills the requirements of **Task 2** from my internship at **Pro
 
 
 ## Dataset
+
 **Source:** Titanic dataset from Kaggle
 **Description:**
 The Titanic dataset provides details about the passengers aboard the RMS Titanic, which sank on April 15, 1912. The dataset includes key features like:
-    - **Survived:** Survival status (0 = No, 1 = Yes)
-    - **Pclass:** Passenger class (1 = First, 2 = Second, 3 = Third)
-    - **Sex:** Gender of the passenger
-    - **Age:** Age of the passenger in years
-    - **SibSp:** Number of siblings or spouses aboard
-    - **Parch:** Number of parents or children aboard
-    - **Fare:** Ticket price paid by the passenger
-    - **Embarked:** Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
-    - **Other features:** Name, Ticket number, Cabin (partially available)
+
+- **Survived:** Survival status (0 = No, 1 = Yes)
+- **Pclass:** Passenger class (1 = First, 2 = Second, 3 = Third)
+- **Sex:** Gender of the passenger
+- **Age:** Age of the passenger in years
+- **SibSp:** Number of siblings or spouses aboard
+- **Parch:** Number of parents or children aboard
+- **Fare:** Ticket price paid by the passenger
+- **Embarked:** Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+- **Other features:** Name, Ticket number, Cabin (partially available)
 
 
 ## Key Steps  

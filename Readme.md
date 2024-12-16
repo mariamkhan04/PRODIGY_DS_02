@@ -1,4 +1,4 @@
-# Titanic Dataset Analysis
+# **Titanic Survival Analysis: Exploring Patterns and Trends Through EDA**
 
 ## Project Overview  
 This project performs **Data Cleaning** and **Exploratory Data Analysis (EDA)** on the **Titanic dataset** from Kaggle. The goal is to explore relationships between variables, identify patterns, and understand factors influencing passenger survival.
